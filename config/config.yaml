@@ -1,0 +1,16 @@
+QQBot:
+    appid: "102170103"
+    # token:
+    secret: "AXvJh5TrFe3SrGf4UuKkAa0RsJkBc3Uw"
+gpt:
+    proxy_url: "https://free.gpt.ge"
+    api_key: "sk-EVU7W5UaXcEOU1TYB8Ca3aC61aAf416dBeBe42BfBdEdF933"
+qwen:
+    api_key: 'sk-05c31700b03544748b9ceb47623f0c39'
+    model: 'qwen-max-0428'
+system:
+    # 配置服务器错误后发送的消息
+    error: "啊哦，纱雾去摸鱼去啦~尼桑耐心等待一会哦~"
+    # 配置默认的AI，可选值：gpt、qwen
+    default_ai: 'qwen'
+
